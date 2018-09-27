@@ -1,2 +1,1 @@
-# ari-yk.github.io
-Hello ^,^
+# Hello ^,^
