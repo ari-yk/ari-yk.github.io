@@ -1,0 +1,35 @@
+{
+  "name": "A R I",
+  "short_name": "A R I",
+  "start_url": "https://ariyk.me",
+  "display": "standalone",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-QmfGk87g3eU/XSXHlp33zvI/AAAAAAAAAN8/RWpiF7NRZ6srAIBaDjxS8R0ijr-yDQlrwCLcBGAs/s1600/icon-36.png",
+    "sizes": "36x36",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r_NGCpimqfQ/XSXITZg1ykI/AAAAAAAAAOE/OxB2LFAB_-s8e7N4Gc7c-jD0QFUqilwoACLcBGAs/s1600/icon-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nsSjYiQsJas/XSXIid3z5xI/AAAAAAAAAOI/zOMWvvPyZSsbrAqlKOEjmgPtlVo6SkOdgCLcBGAs/s1600/icon-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-COcmgNdLZ0w/XSXIunY2_QI/AAAAAAAAAOQ/Y5ma496LLfYExmNXfRy5OhfxzeySh3eywCLcBGAs/s1600/icon-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-diauQZ4s-MQ/XSXI_YYp84I/AAAAAAAAAOc/KfxrcgRYqcYejzheobBKXqW-lLXB1KhFwCLcBGAs/s1600/icon-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uWpCrXBreek/XSXJOLgsgSI/AAAAAAAAAOg/tBGot7m1Hb8VkLCM_csCyO3Dfidd1ulGgCLcBGAs/s1600/icon-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ebKJRK4XVh8/XSXJa2axGAI/AAAAAAAAAOo/kzpCHQa9A0MM_hTaJ9GEdZq2_VQlup8fQCLcBGAs/s1600/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
